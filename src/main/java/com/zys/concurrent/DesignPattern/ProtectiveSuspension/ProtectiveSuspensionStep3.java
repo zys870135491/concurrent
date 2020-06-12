@@ -1,4 +1,4 @@
-package com.zys.concurrent.sharedModelManagement.ProtectiveSuspension;
+package com.zys.concurrent.DesignPattern.ProtectiveSuspension;
 
 import lombok.extern.slf4j.Slf4j;
 
